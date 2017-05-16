@@ -1,0 +1,20 @@
+{
+  "name": "q_app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/",
+  "authors": [
+    "Marcus  <marcusmuasa@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "q_app/app/static/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
